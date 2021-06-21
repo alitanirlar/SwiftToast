@@ -1,16 +1,16 @@
 PODS:
-  - SwiftToast (0.1.0)
+  - SwiftToast (1.1.3)
 
 DEPENDENCIES:
   - SwiftToast (from `../`)
 
 EXTERNAL SOURCES:
   SwiftToast:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftToast: 18032bae7c9d60ed7ee6b53dc54ef8fb6b558147
+  SwiftToast: 336a14b60c6396d9a8b3d2c65c3542c8567375a1
 
-PODFILE CHECKSUM: 27a1f4459c66dd496ef9f5b4e34a581529ddd92b
+PODFILE CHECKSUM: ff548a98450fd899233b338e7565648a286dfa84
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.10.1
